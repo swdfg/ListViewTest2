@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void initFruits(){
         for (int i=0;i<2;i++){
-            Fruit apple = new Fruit("Apple",R.drawable.apple);
+            Fruit apple = new Fruit("Appleaaa",R.drawable.apple);
             fruitList.add(apple);
             Fruit banana=new Fruit("Banana",R.drawable.banana);
             fruitList.add(banana);
